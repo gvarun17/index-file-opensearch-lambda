@@ -1,0 +1,1 @@
+# index-file-opensearch-lambda
